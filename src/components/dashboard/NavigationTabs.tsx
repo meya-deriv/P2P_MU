@@ -49,7 +49,7 @@ const NavigationTabs = ({
       <div className="h-16 px-4 flex items-center justify-between border-b border-gray-200">
         <div className="flex items-center">
           <img
-            src="https://deriv.com/static/media/deriv-logo.7a5c3576.svg"
+            src="https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/8a2d52358233e18471a39ba23580ac56"
             alt="Deriv Logo"
             className="h-8"
           />
